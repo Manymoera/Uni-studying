@@ -1,0 +1,19 @@
+﻿  Main.cpp
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\Monom.h(54,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\Monom.h(98,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\Monom.h(126,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\Monom.h(144,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\Monom.h(149,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\Monom.h(240,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\Monom.h(256,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\Monom.h(271,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\Monom.h(313,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\CircleList.h(28,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\CircleList.h(35,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\CircleList.h(73,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\CircleList.h(159,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\CircleList.h(166,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\CircleList.h(185,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\CircleList.h(201,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++ Programms\Polynorm Arithmetics\Polynorm Arithmetics\CircleList.h(216,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Polynorm Arithmetics.vcxproj -> D:\C++ Programms\Polynorm Arithmetics\x64\Debug\Polynorm Arithmetics.exe
